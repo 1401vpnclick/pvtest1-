@@ -1,0 +1,1 @@
+{"title":"کاربر","message":"Dsfkdk","dismissable":true,"dismissTxt":"نرو تو ","okTxt":"بیا تو ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
