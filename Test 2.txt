@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی 🧑🏻‍💻","message":"داخل شو برای بخترین وی پی ان ها و مود و بهرتی ن و بهترین وارد شو عضویت بزن قوی پرسرعت پر تلکرار هر روز روابنه بیا ","dismissable":true,"dismissTxt":"رد شو همین ","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
+{"title":"کاربر گرامی 🧑🏻‍💻","message":"داخل شو برای بخترین وی پی ان ها و مود و بهرتی ن و بهترین وارد شو عضویت بزن قوی پرسرعت پر تلکرار هر روز روابنه بیا ","dismissable":false,"dismissTxt":"رد شو همین ","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
