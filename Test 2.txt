@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی 🧑🏻‍💻","message":"داخل شو ","dismissable":false,"dismissTxt":"رد شو همین ","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
+{"title":"کاربر گرامی 🧑🏻‍💻","message":"داخل شو ","dismissable":true,"dismissTxt":"رد شو همین ","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
