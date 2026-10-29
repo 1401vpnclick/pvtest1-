@@ -1,1 +1,1 @@
-{"title":"کاربری بری ","message":"بیا تو بزن روش ","dismissable":true,"dismissTxt":"رد","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=vpn-irany","status":"ok"}
+{"title":"کاربری بری ","message":"بیا تو بزن روش ","dismissable":true,"dismissTxt":"رد","okTxt":"عضو شو ","okUrl":"tg://resolve?domain=vpn-irany","status":"off"}
