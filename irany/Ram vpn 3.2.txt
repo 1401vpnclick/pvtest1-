@@ -1,0 +1,1 @@
+{"title":"کاربر گرامی ","message":"جهت استفاده عضو شوید ","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off"}
