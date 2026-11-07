@@ -1,0 +1,1 @@
+{"title":"👤 کاربر گرامی ","message":"جهت استفاده از این برنامه و اطلاع از اپدیت و برنامه های مود شده بیشتر وارد کانال تلگرام ما شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off"}
