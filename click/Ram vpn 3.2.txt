@@ -1,1 +1,1 @@
-{"title":"👤 کاربر گرامی ","message":"جهت استفاده از برنامه,  ابتدا وارد در کانال اصلی ما عضو شوید تا در اختلال ها و قطعی نت اتصال شما حفض شود ♥️🚀","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok","created":"2026-11-09"}
+{"title":"👤 کاربر گرامی ","message":"جهت استفاده از برنامه,  ابتدا وارد در کانال اصلی ما عضو شوید تا در اختلال ها و قطعی نت اتصال شما حفض شود ♥️🚀","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off","created":"2026-11-09"}
