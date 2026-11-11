@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"","dismissable":false,"dismissTxt":"رد","okTxt":"","okUrl":"","status":"off"}
+{"title":"کاربر گرامی ","message":"","dismissable":false,"dismissTxt":"رد","okTxt":"","okUrl":"","status":"ok"}
