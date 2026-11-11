@@ -1,0 +1,1 @@
+{"title":"👤 کاربر گرامی ","message":"برای استفاده از برنامه و دسترسی به بهترین برنامه های مود شده و پرسرعت وارد کانال اصلی تلگرام ما شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off","created":"2026-11-11"}
