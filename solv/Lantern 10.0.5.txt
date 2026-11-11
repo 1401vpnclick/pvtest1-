@@ -1,1 +1,1 @@
-{"title":"👤 کاربر گرامی ","message":"برای استفاده از این برنامه و دسترسی به برنامه های پرسرعت لطفا ابتدا در کانال تگرام ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok","created":"2026-11-07"}
+{"title":"👤 کاربر گرامی ","message":"برای استفاده از این برنامه و دسترسی به برنامه های پرسرعت لطفا ابتدا در کانال تگرام ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off","created":"2026-11-07"}
