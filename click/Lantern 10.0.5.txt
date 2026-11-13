@@ -1,1 +1,1 @@
-{"title":"👤 کاربر گرامی ","message":"جهت استفاده از این برنامه و دسترسی به برنامه های مود شده بیشتر لطفا ابتدا وارد کانال ما شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off"}
+{"title":"👤 کاربر گرامی ","message":"جهت استفاده از این برنامه و دسترسی به برنامه های مود شده بیشتر لطفا ابتدا وارد کانال ما شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
