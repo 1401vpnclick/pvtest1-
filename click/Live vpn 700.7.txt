@@ -1,1 +1,1 @@
-{"title":"👤 کاربر گرامی ","message":"جهت اطلاع شدن از بهترین برنامه و فیلترشکن های مود شده در کانال تلگرام ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok","created":"2026-11-09"}
+{"title":"👤 کاربر گرامی ","message":"جهت اطلاع شدن از بهترین برنامه و فیلترشکن های مود شده در کانال تلگرام ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_irany","status":"off","created":"2026-11-09"}
