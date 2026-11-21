@@ -1,1 +1,1 @@
-{"title":"👤 کاربر گرامی ","message":"جهت استفاده از این برنامه و اطلاع از اپدیت و برنامه های مود شده بیشتر وارد کانال تلگرام ما شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام ","okUrl":"tg://resolve?domain=Vpn_irany","status":"off"}
+{"title":"🎬  گذر منتشر شد! ","message":"جهت استفاده از این برنامه و اطلاع از بهترین vpn  و ترفند ها اندروید پیج اینستگرام ما را دنبال کنید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":"دنبال کردن پیج اینستگرام","okUrl":"https://www.instagram.com/gozar_internet/","status":"off","created":"2026-11-21"}
